@@ -2,7 +2,7 @@
 
 # Project Name
 
-> Hello Microverse, setting up "Hello Microverse" project foreek 1.
+> Hello Microverse, setting up "Hello Microverse" project for week 1.
 
 ## Built With
 
